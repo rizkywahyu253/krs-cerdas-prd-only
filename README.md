@@ -29,6 +29,9 @@ Mahasiswa aktif UMM yang menyusun KRS untuk semester berikutnya, termasuk penggu
 - **Should:** label penjurusan (UX-02), waktu aktual (UX-03), jadwal terurut dan status bentrok (UX-05).
 - **Could:** pengajuan pindah kelas di sistem (UX-06), menunggu kejelasan kebijakan kampus.
 
+## Prototype lima layar
+Prototype interaktif tersedia di [aplikasi KRS Cerdas](https://rizkywahyu253.github.io/krs-cerdas-prd-only/). Alur yang dapat dicoba: Beranda → Informasi KRS → Pilih kelas → Tinjau jadwal → Hasil simulasi. Navigasi, pencarian/filter, pemilihan kelas, deteksi bentrok, ringkasan SKS, dan penyelesaian simulasi saling terhubung. Semua data tetap contoh dan tidak dikirim ke sistem kampus.
+
 ## Di luar cakupan
 Login, integrasi My UMM, data akademik/kuota real-time, pembayaran, persetujuan KRS, dan layanan pindah kelas. Aplikasi adalah prototype data contoh dan tidak mengirim atau menyimpan data mahasiswa.
 
